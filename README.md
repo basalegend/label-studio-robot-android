@@ -26,8 +26,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/basalegend/label-studio-robot-android.git
+cd label-studio-robot-android
 ```
 
 2. Установите необходимые зависимости:
