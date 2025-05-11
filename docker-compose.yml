@@ -1,0 +1,19 @@
+version: "3.3"
+services:
+  label-studio:
+    image: heartexlabs/label-studio:latest
+    container_name: label_studio_container
+    ports:
+      - 8080:8080
+    volumes:
+      - ./label-studio-data:/label-studio/data  # Монтируем нашу локальную папку в контейнер
+      - ./label-studio-files:/label-studio/files
+    environment:
+      - LABEL_STUDIO_DATABASE=sqlite:///label-studio/data/label_studio.sqlite3
+      - LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED=true
+      - LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=/label-studio/files
+    user: "1001"
+
+volumes:
+  label-studio-data:
+  label-studio-files:

@@ -1,0 +1,2702 @@
+[
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Albert Einstein\\Albert Einstein_01.png",
+      "folder": "Albert Einstein"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Albert Einstein\\Albert Einstein_02.png",
+      "folder": "Albert Einstein"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Albert Einstein\\Albert Einstein_03.png",
+      "folder": "Albert Einstein"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Albert Einstein\\Albert Einstein_04.png",
+      "folder": "Albert Einstein"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Albert Einstein\\Albert Einstein_05.png",
+      "folder": "Albert Einstein"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Albert Einstein\\Albert Einstein_06.png",
+      "folder": "Albert Einstein"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Albert Einstein\\Albert Einstein_07.png",
+      "folder": "Albert Einstein"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Albert Einstein\\Albert Einstein_08.png",
+      "folder": "Albert Einstein"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Albert Einstein\\Albert Einstein_09.png",
+      "folder": "Albert Einstein"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Albert Einstein\\Albert Einstein_10.png",
+      "folder": "Albert Einstein"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Alla Pugacheva\\Alla Pugacheva_01.png",
+      "folder": "Alla Pugacheva"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Alla Pugacheva\\Alla Pugacheva_02.png",
+      "folder": "Alla Pugacheva"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Alla Pugacheva\\Alla Pugacheva_03.png",
+      "folder": "Alla Pugacheva"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Alla Pugacheva\\Alla Pugacheva_04.png",
+      "folder": "Alla Pugacheva"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Alla Pugacheva\\Alla Pugacheva_05.png",
+      "folder": "Alla Pugacheva"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Alla Pugacheva\\Alla Pugacheva_06.png",
+      "folder": "Alla Pugacheva"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Alla Pugacheva\\Alla Pugacheva_07.png",
+      "folder": "Alla Pugacheva"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Alla Pugacheva\\Alla Pugacheva_08.png",
+      "folder": "Alla Pugacheva"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Alla Pugacheva\\Alla Pugacheva_09.png",
+      "folder": "Alla Pugacheva"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Alla Pugacheva\\Alla Pugacheva_10.png",
+      "folder": "Alla Pugacheva"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_01.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_02.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_03.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_04.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_05.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_06.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_07.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_08.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_09.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_10.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_11.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Angelina Jolie\\Angelina Jolie_12.png",
+      "folder": "Angelina Jolie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Arnold Schwarzenegger\\Arnold Schwarzenegger_01.png",
+      "folder": "Arnold Schwarzenegger"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Arnold Schwarzenegger\\Arnold Schwarzenegger_02.png",
+      "folder": "Arnold Schwarzenegger"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Arnold Schwarzenegger\\Arnold Schwarzenegger_03.png",
+      "folder": "Arnold Schwarzenegger"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Arnold Schwarzenegger\\Arnold Schwarzenegger_04.png",
+      "folder": "Arnold Schwarzenegger"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Arnold Schwarzenegger\\Arnold Schwarzenegger_05.png",
+      "folder": "Arnold Schwarzenegger"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Arnold Schwarzenegger\\Arnold Schwarzenegger_06.png",
+      "folder": "Arnold Schwarzenegger"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Arnold Schwarzenegger\\Arnold Schwarzenegger_07.png",
+      "folder": "Arnold Schwarzenegger"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Arnold Schwarzenegger\\Arnold Schwarzenegger_08.png",
+      "folder": "Arnold Schwarzenegger"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Arnold Schwarzenegger\\Arnold Schwarzenegger_09.png",
+      "folder": "Arnold Schwarzenegger"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Arnold Schwarzenegger\\Arnold Schwarzenegger_10.png",
+      "folder": "Arnold Schwarzenegger"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Boris Yeltsin\\Boris Yeltsin_01.png",
+      "folder": "Boris Yeltsin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Boris Yeltsin\\Boris Yeltsin_02.png",
+      "folder": "Boris Yeltsin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Boris Yeltsin\\Boris Yeltsin_03.png",
+      "folder": "Boris Yeltsin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Boris Yeltsin\\Boris Yeltsin_04.png",
+      "folder": "Boris Yeltsin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Boris Yeltsin\\Boris Yeltsin_05.png",
+      "folder": "Boris Yeltsin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Boris Yeltsin\\Boris Yeltsin_06.png",
+      "folder": "Boris Yeltsin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Boris Yeltsin\\Boris Yeltsin_07.png",
+      "folder": "Boris Yeltsin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Boris Yeltsin\\Boris Yeltsin_08.png",
+      "folder": "Boris Yeltsin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Boris Yeltsin\\Boris Yeltsin_09.png",
+      "folder": "Boris Yeltsin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Boris Yeltsin\\Boris Yeltsin_10.png",
+      "folder": "Boris Yeltsin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Brad Pitt\\Brad Pitt_01.png",
+      "folder": "Brad Pitt"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Brad Pitt\\Brad Pitt_02.png",
+      "folder": "Brad Pitt"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Brad Pitt\\Brad Pitt_03.png",
+      "folder": "Brad Pitt"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Brad Pitt\\Brad Pitt_04.png",
+      "folder": "Brad Pitt"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Brad Pitt\\Brad Pitt_05.png",
+      "folder": "Brad Pitt"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Brad Pitt\\Brad Pitt_06.png",
+      "folder": "Brad Pitt"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Brad Pitt\\Brad Pitt_07.png",
+      "folder": "Brad Pitt"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Brad Pitt\\Brad Pitt_08.png",
+      "folder": "Brad Pitt"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Brad Pitt\\Brad Pitt_09.png",
+      "folder": "Brad Pitt"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Brad Pitt\\Brad Pitt_10.png",
+      "folder": "Brad Pitt"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_01.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_02.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_03.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_04.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_05.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_06.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_07.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_08.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_09.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_10.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_11.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_12.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Britney Spears\\Britney Spears_13.png",
+      "folder": "Britney Spears"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_01.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_02.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_03.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_04.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_05.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_06.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_07.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_08.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_09.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_10.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_11.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Demi Moore\\Demi Moore_12.png",
+      "folder": "Demi Moore"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Donald Trump\\Donald Trump_01.png",
+      "folder": "Donald Trump"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Donald Trump\\Donald Trump_02.png",
+      "folder": "Donald Trump"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Donald Trump\\Donald Trump_03.png",
+      "folder": "Donald Trump"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Donald Trump\\Donald Trump_04.png",
+      "folder": "Donald Trump"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Donald Trump\\Donald Trump_05.png",
+      "folder": "Donald Trump"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Donald Trump\\Donald Trump_06.png",
+      "folder": "Donald Trump"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Donald Trump\\Donald Trump_07.png",
+      "folder": "Donald Trump"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Donald Trump\\Donald Trump_08.png",
+      "folder": "Donald Trump"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Donald Trump\\Donald Trump_09.png",
+      "folder": "Donald Trump"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Donald Trump\\Donald Trump_10.png",
+      "folder": "Donald Trump"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Elon Musk\\Elon Musk_01.png",
+      "folder": "Elon Musk"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Elon Musk\\Elon Musk_02.png",
+      "folder": "Elon Musk"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Elon Musk\\Elon Musk_03.png",
+      "folder": "Elon Musk"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Elon Musk\\Elon Musk_04.png",
+      "folder": "Elon Musk"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Elon Musk\\Elon Musk_05.png",
+      "folder": "Elon Musk"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Elon Musk\\Elon Musk_06.png",
+      "folder": "Elon Musk"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Elon Musk\\Elon Musk_07.png",
+      "folder": "Elon Musk"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Elon Musk\\Elon Musk_08.png",
+      "folder": "Elon Musk"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Elon Musk\\Elon Musk_09.png",
+      "folder": "Elon Musk"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Elon Musk\\Elon Musk_10.png",
+      "folder": "Elon Musk"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_01.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_02.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_03.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_04.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_05.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_06.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_07.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_08.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_09.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_10.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_11.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Eminem\\Eminem_12.png",
+      "folder": "Eminem"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Freddie Mercury\\Freddie Mercury_01.png",
+      "folder": "Freddie Mercury"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Freddie Mercury\\Freddie Mercury_02.png",
+      "folder": "Freddie Mercury"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Freddie Mercury\\Freddie Mercury_03.png",
+      "folder": "Freddie Mercury"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Freddie Mercury\\Freddie Mercury_04.png",
+      "folder": "Freddie Mercury"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Freddie Mercury\\Freddie Mercury_05.png",
+      "folder": "Freddie Mercury"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Freddie Mercury\\Freddie Mercury_06.png",
+      "folder": "Freddie Mercury"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Freddie Mercury\\Freddie Mercury_07.png",
+      "folder": "Freddie Mercury"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Freddie Mercury\\Freddie Mercury_08.png",
+      "folder": "Freddie Mercury"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Freddie Mercury\\Freddie Mercury_09.png",
+      "folder": "Freddie Mercury"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Freddie Mercury\\Freddie Mercury_10.png",
+      "folder": "Freddie Mercury"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Guy Ritchie\\Guy Ritchie_01.png",
+      "folder": "Guy Ritchie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Guy Ritchie\\Guy Ritchie_02.png",
+      "folder": "Guy Ritchie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Guy Ritchie\\Guy Ritchie_03.png",
+      "folder": "Guy Ritchie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Guy Ritchie\\Guy Ritchie_04.png",
+      "folder": "Guy Ritchie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Guy Ritchie\\Guy Ritchie_05.png",
+      "folder": "Guy Ritchie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Guy Ritchie\\Guy Ritchie_06.png",
+      "folder": "Guy Ritchie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Guy Ritchie\\Guy Ritchie_07.png",
+      "folder": "Guy Ritchie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Guy Ritchie\\Guy Ritchie_08.png",
+      "folder": "Guy Ritchie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Guy Ritchie\\Guy Ritchie_09.png",
+      "folder": "Guy Ritchie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Guy Ritchie\\Guy Ritchie_10.png",
+      "folder": "Guy Ritchie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Guy Ritchie\\Guy Ritchie_11.png",
+      "folder": "Guy Ritchie"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_01.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_02.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_03.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_04.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_05.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_06.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_07.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_08.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_09.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_10.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_11.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_12.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_13.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_14.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_15.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_16.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_17.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Ivan Basalaev\\Ivan Basalaev_18.jpg",
+      "folder": "Ivan Basalaev"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jason Statham\\Jason Statham_01.png",
+      "folder": "Jason Statham"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jason Statham\\Jason Statham_02.png",
+      "folder": "Jason Statham"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jason Statham\\Jason Statham_03.png",
+      "folder": "Jason Statham"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jason Statham\\Jason Statham_04.png",
+      "folder": "Jason Statham"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jason Statham\\Jason Statham_05.png",
+      "folder": "Jason Statham"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jason Statham\\Jason Statham_06.png",
+      "folder": "Jason Statham"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jason Statham\\Jason Statham_07.png",
+      "folder": "Jason Statham"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jason Statham\\Jason Statham_08.png",
+      "folder": "Jason Statham"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jason Statham\\Jason Statham_09.png",
+      "folder": "Jason Statham"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jason Statham\\Jason Statham_10.png",
+      "folder": "Jason Statham"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jennifer Lopez\\Jennifer Lopez_01.png",
+      "folder": "Jennifer Lopez"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jennifer Lopez\\Jennifer Lopez_02.png",
+      "folder": "Jennifer Lopez"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jennifer Lopez\\Jennifer Lopez_03.png",
+      "folder": "Jennifer Lopez"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jennifer Lopez\\Jennifer Lopez_04.png",
+      "folder": "Jennifer Lopez"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jennifer Lopez\\Jennifer Lopez_05.png",
+      "folder": "Jennifer Lopez"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jennifer Lopez\\Jennifer Lopez_06.png",
+      "folder": "Jennifer Lopez"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jennifer Lopez\\Jennifer Lopez_07.png",
+      "folder": "Jennifer Lopez"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jennifer Lopez\\Jennifer Lopez_08.png",
+      "folder": "Jennifer Lopez"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jennifer Lopez\\Jennifer Lopez_09.png",
+      "folder": "Jennifer Lopez"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jennifer Lopez\\Jennifer Lopez_10.png",
+      "folder": "Jennifer Lopez"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jennifer Lopez\\Jennifer Lopez_11.png",
+      "folder": "Jennifer Lopez"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_01.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_02.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_03.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_04.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_05.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_06.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_07.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_08.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_09.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_10.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_11.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Jim Carrey\\Jim Carrey_12.png",
+      "folder": "Jim Carrey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Johnny Depp\\Johnny Depp_01.png",
+      "folder": "Johnny Depp"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Johnny Depp\\Johnny Depp_02.png",
+      "folder": "Johnny Depp"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Johnny Depp\\Johnny Depp_03.png",
+      "folder": "Johnny Depp"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Johnny Depp\\Johnny Depp_04.png",
+      "folder": "Johnny Depp"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Johnny Depp\\Johnny Depp_05.png",
+      "folder": "Johnny Depp"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Johnny Depp\\Johnny Depp_06.png",
+      "folder": "Johnny Depp"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Johnny Depp\\Johnny Depp_07.png",
+      "folder": "Johnny Depp"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Johnny Depp\\Johnny Depp_08.png",
+      "folder": "Johnny Depp"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Johnny Depp\\Johnny Depp_09.png",
+      "folder": "Johnny Depp"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Johnny Depp\\Johnny Depp_10.png",
+      "folder": "Johnny Depp"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Lady Gaga\\Lady Gaga_01.png",
+      "folder": "Lady Gaga"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Lady Gaga\\Lady Gaga_02.png",
+      "folder": "Lady Gaga"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Lady Gaga\\Lady Gaga_03.png",
+      "folder": "Lady Gaga"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Lady Gaga\\Lady Gaga_04.png",
+      "folder": "Lady Gaga"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Lady Gaga\\Lady Gaga_05.png",
+      "folder": "Lady Gaga"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Lady Gaga\\Lady Gaga_06.png",
+      "folder": "Lady Gaga"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Lady Gaga\\Lady Gaga_07.png",
+      "folder": "Lady Gaga"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Lady Gaga\\Lady Gaga_08.png",
+      "folder": "Lady Gaga"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Lady Gaga\\Lady Gaga_09.png",
+      "folder": "Lady Gaga"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Lady Gaga\\Lady Gaga_10.png",
+      "folder": "Lady Gaga"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Leonardo DiCaprio\\Leonardo DiCaprio_01.png",
+      "folder": "Leonardo DiCaprio"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Leonardo DiCaprio\\Leonardo DiCaprio_02.png",
+      "folder": "Leonardo DiCaprio"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Leonardo DiCaprio\\Leonardo DiCaprio_03.png",
+      "folder": "Leonardo DiCaprio"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Leonardo DiCaprio\\Leonardo DiCaprio_04.png",
+      "folder": "Leonardo DiCaprio"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Leonardo DiCaprio\\Leonardo DiCaprio_05.png",
+      "folder": "Leonardo DiCaprio"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Leonardo DiCaprio\\Leonardo DiCaprio_06.png",
+      "folder": "Leonardo DiCaprio"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Leonardo DiCaprio\\Leonardo DiCaprio_07.png",
+      "folder": "Leonardo DiCaprio"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Leonardo DiCaprio\\Leonardo DiCaprio_08.png",
+      "folder": "Leonardo DiCaprio"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Leonardo DiCaprio\\Leonardo DiCaprio_09.png",
+      "folder": "Leonardo DiCaprio"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Leonardo DiCaprio\\Leonardo DiCaprio_10.png",
+      "folder": "Leonardo DiCaprio"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Madonna\\Madonna_01.png",
+      "folder": "Madonna"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Madonna\\Madonna_02.png",
+      "folder": "Madonna"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Madonna\\Madonna_03.png",
+      "folder": "Madonna"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Madonna\\Madonna_04.png",
+      "folder": "Madonna"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Madonna\\Madonna_05.png",
+      "folder": "Madonna"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Madonna\\Madonna_06.png",
+      "folder": "Madonna"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Madonna\\Madonna_07.png",
+      "folder": "Madonna"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Madonna\\Madonna_08.png",
+      "folder": "Madonna"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Madonna\\Madonna_09.png",
+      "folder": "Madonna"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Madonna\\Madonna_10.png",
+      "folder": "Madonna"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Madonna\\Madonna_11.png",
+      "folder": "Madonna"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Marilyn Monroe\\Marilyn Monroe_01.png",
+      "folder": "Marilyn Monroe"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Marilyn Monroe\\Marilyn Monroe_02.png",
+      "folder": "Marilyn Monroe"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Marilyn Monroe\\Marilyn Monroe_03.png",
+      "folder": "Marilyn Monroe"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Marilyn Monroe\\Marilyn Monroe_04.png",
+      "folder": "Marilyn Monroe"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Marilyn Monroe\\Marilyn Monroe_05.png",
+      "folder": "Marilyn Monroe"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Marilyn Monroe\\Marilyn Monroe_06.png",
+      "folder": "Marilyn Monroe"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Marilyn Monroe\\Marilyn Monroe_07.png",
+      "folder": "Marilyn Monroe"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Marilyn Monroe\\Marilyn Monroe_08.png",
+      "folder": "Marilyn Monroe"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Marilyn Monroe\\Marilyn Monroe_09.png",
+      "folder": "Marilyn Monroe"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Marilyn Monroe\\Marilyn Monroe_10.png",
+      "folder": "Marilyn Monroe"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Marilyn Monroe\\Marilyn Monroe_11.png",
+      "folder": "Marilyn Monroe"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mark Zuckerberg\\Mark Zuckerberg_01.png",
+      "folder": "Mark Zuckerberg"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mark Zuckerberg\\Mark Zuckerberg_02.png",
+      "folder": "Mark Zuckerberg"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mark Zuckerberg\\Mark Zuckerberg_03.png",
+      "folder": "Mark Zuckerberg"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mark Zuckerberg\\Mark Zuckerberg_04.png",
+      "folder": "Mark Zuckerberg"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mark Zuckerberg\\Mark Zuckerberg_05.png",
+      "folder": "Mark Zuckerberg"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mark Zuckerberg\\Mark Zuckerberg_06.png",
+      "folder": "Mark Zuckerberg"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mark Zuckerberg\\Mark Zuckerberg_07.png",
+      "folder": "Mark Zuckerberg"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mark Zuckerberg\\Mark Zuckerberg_08.png",
+      "folder": "Mark Zuckerberg"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mark Zuckerberg\\Mark Zuckerberg_09.png",
+      "folder": "Mark Zuckerberg"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mark Zuckerberg\\Mark Zuckerberg_10.png",
+      "folder": "Mark Zuckerberg"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Martin Scorsese\\Martin Scorsese_01.png",
+      "folder": "Martin Scorsese"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Martin Scorsese\\Martin Scorsese_02.png",
+      "folder": "Martin Scorsese"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Martin Scorsese\\Martin Scorsese_03.png",
+      "folder": "Martin Scorsese"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Martin Scorsese\\Martin Scorsese_04.png",
+      "folder": "Martin Scorsese"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Martin Scorsese\\Martin Scorsese_05.png",
+      "folder": "Martin Scorsese"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Martin Scorsese\\Martin Scorsese_06.png",
+      "folder": "Martin Scorsese"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Martin Scorsese\\Martin Scorsese_07.png",
+      "folder": "Martin Scorsese"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Martin Scorsese\\Martin Scorsese_08.png",
+      "folder": "Martin Scorsese"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Martin Scorsese\\Martin Scorsese_09.png",
+      "folder": "Martin Scorsese"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Martin Scorsese\\Martin Scorsese_10.png",
+      "folder": "Martin Scorsese"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Matthew McConaughey\\Matthew McConaughey_01.png",
+      "folder": "Matthew McConaughey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Matthew McConaughey\\Matthew McConaughey_02.png",
+      "folder": "Matthew McConaughey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Matthew McConaughey\\Matthew McConaughey_03.png",
+      "folder": "Matthew McConaughey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Matthew McConaughey\\Matthew McConaughey_04.png",
+      "folder": "Matthew McConaughey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Matthew McConaughey\\Matthew McConaughey_05.png",
+      "folder": "Matthew McConaughey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Matthew McConaughey\\Matthew McConaughey_06.png",
+      "folder": "Matthew McConaughey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Matthew McConaughey\\Matthew McConaughey_07.png",
+      "folder": "Matthew McConaughey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Matthew McConaughey\\Matthew McConaughey_08.png",
+      "folder": "Matthew McConaughey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Matthew McConaughey\\Matthew McConaughey_09.png",
+      "folder": "Matthew McConaughey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Matthew McConaughey\\Matthew McConaughey_10.png",
+      "folder": "Matthew McConaughey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Matthew McConaughey\\Matthew McConaughey_11.png",
+      "folder": "Matthew McConaughey"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Michael Jackson\\Michael Jackson_01.png",
+      "folder": "Michael Jackson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Michael Jackson\\Michael Jackson_02.png",
+      "folder": "Michael Jackson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Michael Jackson\\Michael Jackson_03.png",
+      "folder": "Michael Jackson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Michael Jackson\\Michael Jackson_04.png",
+      "folder": "Michael Jackson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Michael Jackson\\Michael Jackson_05.png",
+      "folder": "Michael Jackson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Michael Jackson\\Michael Jackson_06.png",
+      "folder": "Michael Jackson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Michael Jackson\\Michael Jackson_07.png",
+      "folder": "Michael Jackson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Michael Jackson\\Michael Jackson_08.png",
+      "folder": "Michael Jackson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Michael Jackson\\Michael Jackson_09.png",
+      "folder": "Michael Jackson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Michael Jackson\\Michael Jackson_10.png",
+      "folder": "Michael Jackson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mike Tyson\\Mike Tyson_01.png",
+      "folder": "Mike Tyson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mike Tyson\\Mike Tyson_02.png",
+      "folder": "Mike Tyson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mike Tyson\\Mike Tyson_03.png",
+      "folder": "Mike Tyson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mike Tyson\\Mike Tyson_04.png",
+      "folder": "Mike Tyson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mike Tyson\\Mike Tyson_05.png",
+      "folder": "Mike Tyson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mike Tyson\\Mike Tyson_06.png",
+      "folder": "Mike Tyson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mike Tyson\\Mike Tyson_07.png",
+      "folder": "Mike Tyson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mike Tyson\\Mike Tyson_08.png",
+      "folder": "Mike Tyson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mike Tyson\\Mike Tyson_09.png",
+      "folder": "Mike Tyson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Mike Tyson\\Mike Tyson_10.png",
+      "folder": "Mike Tyson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Monica Bellucci\\Monica Bellucci_01.png",
+      "folder": "Monica Bellucci"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Monica Bellucci\\Monica Bellucci_02.png",
+      "folder": "Monica Bellucci"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Monica Bellucci\\Monica Bellucci_03.png",
+      "folder": "Monica Bellucci"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Monica Bellucci\\Monica Bellucci_04.png",
+      "folder": "Monica Bellucci"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Monica Bellucci\\Monica Bellucci_05.png",
+      "folder": "Monica Bellucci"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Monica Bellucci\\Monica Bellucci_06.png",
+      "folder": "Monica Bellucci"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Monica Bellucci\\Monica Bellucci_07.png",
+      "folder": "Monica Bellucci"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Monica Bellucci\\Monica Bellucci_08.png",
+      "folder": "Monica Bellucci"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Monica Bellucci\\Monica Bellucci_09.png",
+      "folder": "Monica Bellucci"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Monica Bellucci\\Monica Bellucci_10.png",
+      "folder": "Monica Bellucci"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Quentin Tarantino\\Quentin Tarantino_01.png",
+      "folder": "Quentin Tarantino"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Quentin Tarantino\\Quentin Tarantino_02.png",
+      "folder": "Quentin Tarantino"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Quentin Tarantino\\Quentin Tarantino_03.png",
+      "folder": "Quentin Tarantino"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Quentin Tarantino\\Quentin Tarantino_04.png",
+      "folder": "Quentin Tarantino"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Quentin Tarantino\\Quentin Tarantino_05.png",
+      "folder": "Quentin Tarantino"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Quentin Tarantino\\Quentin Tarantino_06.png",
+      "folder": "Quentin Tarantino"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Quentin Tarantino\\Quentin Tarantino_07.png",
+      "folder": "Quentin Tarantino"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Quentin Tarantino\\Quentin Tarantino_08.png",
+      "folder": "Quentin Tarantino"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Quentin Tarantino\\Quentin Tarantino_09.png",
+      "folder": "Quentin Tarantino"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Quentin Tarantino\\Quentin Tarantino_10.png",
+      "folder": "Quentin Tarantino"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Robert Downey Jr\\Robert Downey Jr_01.png",
+      "folder": "Robert Downey Jr"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Robert Downey Jr\\Robert Downey Jr_02.png",
+      "folder": "Robert Downey Jr"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Robert Downey Jr\\Robert Downey Jr_03.png",
+      "folder": "Robert Downey Jr"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Robert Downey Jr\\Robert Downey Jr_04.png",
+      "folder": "Robert Downey Jr"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Robert Downey Jr\\Robert Downey Jr_05.png",
+      "folder": "Robert Downey Jr"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Robert Downey Jr\\Robert Downey Jr_06.png",
+      "folder": "Robert Downey Jr"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Robert Downey Jr\\Robert Downey Jr_07.png",
+      "folder": "Robert Downey Jr"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Robert Downey Jr\\Robert Downey Jr_08.png",
+      "folder": "Robert Downey Jr"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Robert Downey Jr\\Robert Downey Jr_09.png",
+      "folder": "Robert Downey Jr"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Robert Downey Jr\\Robert Downey Jr_10.png",
+      "folder": "Robert Downey Jr"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Robert Downey Jr\\Robert Downey Jr_11.png",
+      "folder": "Robert Downey Jr"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_01.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_02.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_03.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_04.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_05.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_06.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_07.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_08.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_09.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_10.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_11.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Salma Hayek\\Salma Hayek_12.png",
+      "folder": "Salma Hayek"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Scarlett Johansson\\Scarlett Johansson_01.png",
+      "folder": "Scarlett Johansson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Scarlett Johansson\\Scarlett Johansson_02.png",
+      "folder": "Scarlett Johansson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Scarlett Johansson\\Scarlett Johansson_03.png",
+      "folder": "Scarlett Johansson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Scarlett Johansson\\Scarlett Johansson_04.png",
+      "folder": "Scarlett Johansson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Scarlett Johansson\\Scarlett Johansson_05.png",
+      "folder": "Scarlett Johansson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Scarlett Johansson\\Scarlett Johansson_06.png",
+      "folder": "Scarlett Johansson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Scarlett Johansson\\Scarlett Johansson_07.png",
+      "folder": "Scarlett Johansson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Scarlett Johansson\\Scarlett Johansson_08.png",
+      "folder": "Scarlett Johansson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Scarlett Johansson\\Scarlett Johansson_09.png",
+      "folder": "Scarlett Johansson"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Steve Jobs\\Steve Jobs_01.png",
+      "folder": "Steve Jobs"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Steve Jobs\\Steve Jobs_02.png",
+      "folder": "Steve Jobs"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Steve Jobs\\Steve Jobs_03.png",
+      "folder": "Steve Jobs"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Steve Jobs\\Steve Jobs_04.png",
+      "folder": "Steve Jobs"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Steve Jobs\\Steve Jobs_05.png",
+      "folder": "Steve Jobs"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Steve Jobs\\Steve Jobs_06.png",
+      "folder": "Steve Jobs"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Steve Jobs\\Steve Jobs_07.png",
+      "folder": "Steve Jobs"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Steve Jobs\\Steve Jobs_08.png",
+      "folder": "Steve Jobs"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Steve Jobs\\Steve Jobs_09.png",
+      "folder": "Steve Jobs"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Steve Jobs\\Steve Jobs_10.png",
+      "folder": "Steve Jobs"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Sylvester Stallone\\Sylvester Stallone_01.png",
+      "folder": "Sylvester Stallone"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Sylvester Stallone\\Sylvester Stallone_02.png",
+      "folder": "Sylvester Stallone"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Sylvester Stallone\\Sylvester Stallone_03.png",
+      "folder": "Sylvester Stallone"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Sylvester Stallone\\Sylvester Stallone_04.png",
+      "folder": "Sylvester Stallone"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Sylvester Stallone\\Sylvester Stallone_05.png",
+      "folder": "Sylvester Stallone"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Sylvester Stallone\\Sylvester Stallone_06.png",
+      "folder": "Sylvester Stallone"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Sylvester Stallone\\Sylvester Stallone_07.png",
+      "folder": "Sylvester Stallone"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Sylvester Stallone\\Sylvester Stallone_08.png",
+      "folder": "Sylvester Stallone"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Sylvester Stallone\\Sylvester Stallone_09.png",
+      "folder": "Sylvester Stallone"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Sylvester Stallone\\Sylvester Stallone_10.png",
+      "folder": "Sylvester Stallone"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Cruise\\Tom Cruise_01.png",
+      "folder": "Tom Cruise"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Cruise\\Tom Cruise_02.png",
+      "folder": "Tom Cruise"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Cruise\\Tom Cruise_03.png",
+      "folder": "Tom Cruise"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Cruise\\Tom Cruise_04.png",
+      "folder": "Tom Cruise"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Cruise\\Tom Cruise_05.png",
+      "folder": "Tom Cruise"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Cruise\\Tom Cruise_06.png",
+      "folder": "Tom Cruise"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Cruise\\Tom Cruise_07.png",
+      "folder": "Tom Cruise"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Cruise\\Tom Cruise_08.png",
+      "folder": "Tom Cruise"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Cruise\\Tom Cruise_09.png",
+      "folder": "Tom Cruise"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Cruise\\Tom Cruise_10.png",
+      "folder": "Tom Cruise"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Cruise\\Tom Cruise_11.png",
+      "folder": "Tom Cruise"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_01.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_02.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_03.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_04.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_05.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_06.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_07.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_08.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_09.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_10.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_11.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Tom Hardy\\Tom Hardy_12.png",
+      "folder": "Tom Hardy"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Uma Thurman\\Uma Thurman_01.png",
+      "folder": "Uma Thurman"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Uma Thurman\\Uma Thurman_02.png",
+      "folder": "Uma Thurman"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Uma Thurman\\Uma Thurman_03.png",
+      "folder": "Uma Thurman"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Uma Thurman\\Uma Thurman_04.png",
+      "folder": "Uma Thurman"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Uma Thurman\\Uma Thurman_05.png",
+      "folder": "Uma Thurman"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Uma Thurman\\Uma Thurman_06.png",
+      "folder": "Uma Thurman"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Uma Thurman\\Uma Thurman_07.png",
+      "folder": "Uma Thurman"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Uma Thurman\\Uma Thurman_08.png",
+      "folder": "Uma Thurman"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Uma Thurman\\Uma Thurman_09.png",
+      "folder": "Uma Thurman"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Uma Thurman\\Uma Thurman_10.png",
+      "folder": "Uma Thurman"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Uma Thurman\\Uma Thurman_11.png",
+      "folder": "Uma Thurman"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Viktor Tsoi\\Viktor Tsoi_01.png",
+      "folder": "Viktor Tsoi"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Viktor Tsoi\\Viktor Tsoi_02.png",
+      "folder": "Viktor Tsoi"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Viktor Tsoi\\Viktor Tsoi_03.png",
+      "folder": "Viktor Tsoi"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Viktor Tsoi\\Viktor Tsoi_04.png",
+      "folder": "Viktor Tsoi"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Viktor Tsoi\\Viktor Tsoi_05.png",
+      "folder": "Viktor Tsoi"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Viktor Tsoi\\Viktor Tsoi_06.png",
+      "folder": "Viktor Tsoi"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Viktor Tsoi\\Viktor Tsoi_07.png",
+      "folder": "Viktor Tsoi"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Viktor Tsoi\\Viktor Tsoi_08.png",
+      "folder": "Viktor Tsoi"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Viktor Tsoi\\Viktor Tsoi_09.png",
+      "folder": "Viktor Tsoi"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Viktor Tsoi\\Viktor Tsoi_10.png",
+      "folder": "Viktor Tsoi"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vin Diesel\\Vin Diesel_01.png",
+      "folder": "Vin Diesel"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vin Diesel\\Vin Diesel_02.png",
+      "folder": "Vin Diesel"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vin Diesel\\Vin Diesel_03.png",
+      "folder": "Vin Diesel"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vin Diesel\\Vin Diesel_04.png",
+      "folder": "Vin Diesel"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vin Diesel\\Vin Diesel_05.png",
+      "folder": "Vin Diesel"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vin Diesel\\Vin Diesel_06.png",
+      "folder": "Vin Diesel"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vin Diesel\\Vin Diesel_07.png",
+      "folder": "Vin Diesel"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vin Diesel\\Vin Diesel_08.png",
+      "folder": "Vin Diesel"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vin Diesel\\Vin Diesel_09.png",
+      "folder": "Vin Diesel"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vin Diesel\\Vin Diesel_10.png",
+      "folder": "Vin Diesel"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vladimir Vysotsky\\Vladimir Vysotsky_01.png",
+      "folder": "Vladimir Vysotsky"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vladimir Vysotsky\\Vladimir Vysotsky_02.png",
+      "folder": "Vladimir Vysotsky"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vladimir Vysotsky\\Vladimir Vysotsky_03.png",
+      "folder": "Vladimir Vysotsky"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vladimir Vysotsky\\Vladimir Vysotsky_04.png",
+      "folder": "Vladimir Vysotsky"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vladimir Vysotsky\\Vladimir Vysotsky_05.png",
+      "folder": "Vladimir Vysotsky"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vladimir Vysotsky\\Vladimir Vysotsky_06.png",
+      "folder": "Vladimir Vysotsky"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vladimir Vysotsky\\Vladimir Vysotsky_07.png",
+      "folder": "Vladimir Vysotsky"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vladimir Vysotsky\\Vladimir Vysotsky_08.png",
+      "folder": "Vladimir Vysotsky"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vladimir Vysotsky\\Vladimir Vysotsky_09.png",
+      "folder": "Vladimir Vysotsky"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Vladimir Vysotsky\\Vladimir Vysotsky_10.png",
+      "folder": "Vladimir Vysotsky"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Will Smith\\Will Smith_01.png",
+      "folder": "Will Smith"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Will Smith\\Will Smith_02.png",
+      "folder": "Will Smith"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Will Smith\\Will Smith_03.png",
+      "folder": "Will Smith"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Will Smith\\Will Smith_04.png",
+      "folder": "Will Smith"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Will Smith\\Will Smith_05.png",
+      "folder": "Will Smith"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Will Smith\\Will Smith_06.png",
+      "folder": "Will Smith"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Will Smith\\Will Smith_07.png",
+      "folder": "Will Smith"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Will Smith\\Will Smith_08.png",
+      "folder": "Will Smith"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Will Smith\\Will Smith_09.png",
+      "folder": "Will Smith"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Will Smith\\Will Smith_10.png",
+      "folder": "Will Smith"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Yuri Nikulin\\Yuri Nikulin_01.png",
+      "folder": "Yuri Nikulin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Yuri Nikulin\\Yuri Nikulin_02.png",
+      "folder": "Yuri Nikulin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Yuri Nikulin\\Yuri Nikulin_03.png",
+      "folder": "Yuri Nikulin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Yuri Nikulin\\Yuri Nikulin_04.png",
+      "folder": "Yuri Nikulin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Yuri Nikulin\\Yuri Nikulin_05.png",
+      "folder": "Yuri Nikulin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Yuri Nikulin\\Yuri Nikulin_06.png",
+      "folder": "Yuri Nikulin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Yuri Nikulin\\Yuri Nikulin_07.png",
+      "folder": "Yuri Nikulin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Yuri Nikulin\\Yuri Nikulin_08.png",
+      "folder": "Yuri Nikulin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Yuri Nikulin\\Yuri Nikulin_09.png",
+      "folder": "Yuri Nikulin"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=./for_recognize/dataset/Yuri Nikulin\\Yuri Nikulin_10.png",
+      "folder": "Yuri Nikulin"
+    }
+  }
+]
