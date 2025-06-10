@@ -20,7 +20,6 @@
 
 - Python 3.12+
 - OpenCV (cv2)
-- Запущенный экземпляр Label Studio
 
 ## Установка
 
@@ -50,26 +49,25 @@ docker-compose up -d
 
 Это запустит Label Studio на порту 8080.
 
-### Вариант 2: Использование Dockerfile
+### Вариант 2: Использование Docker
 
 1. Создайте необходимые директории:
 ```bash
 mkdir -p label-studio-data label-studio-files
 ```
 
-2. Соберите Docker образ:
+2. Запустите контейнер:
 ```bash
-docker build -t label-studio-custom .
-```
-
-3. Запустите контейнер:
-```bash
-docker run -d \
-  --name label_studio_container \
-  -p 8080:8080 \
-  -v ./label-studio-data:/label-studio/data \
-  -v ./label-studio-files:/label-studio/files \
-  label-studio-custom
+docker run -d  \
+--name label_studio_container \
+-p 8080:8080 \
+-v $(pwd)/label-studio-data:/label-studio/data \
+-v $(pwd)/label-studio-files:/label-studio/files \
+-e LABEL_STUDIO_DATABASE=sqlite:///label-studio/data/label_studio.sqlite3 \
+-e LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED=true \
+-e LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=/label-studio/files \
+--user 1001 \
+heartexlabs/label-studio:latest
 ```
 
 После запуска Label Studio будет доступен по адресу http://localhost:8080
